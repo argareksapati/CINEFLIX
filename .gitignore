@@ -1,0 +1,15 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.iml
+.idea/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Folder android/, ios/, dan web/ sudah disertakan dan aman untuk di-commit.
+# Konfigurasi .vscode/ juga di-commit agar tim bisa langsung Run/Debug.

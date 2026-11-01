@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "dune_part_two",
+    "title": "DUNE: PART TWO",
+    "genre": "Sci-Fi",
+    "year": 2024,
+    "rating": 8.4,
+    "poster": "1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+  },
+  {
+    "slug": "spider_verse",
+    "title": "SPIDER-MAN: ACROSS THE SPIDER-VERSE",
+    "genre": "Aksi",
+    "year": 2023,
+    "rating": 8.6,
+    "poster": "8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+  },
+  {
+    "slug": "oppenheimer",
+    "title": "OPPENHEIMER",
+    "genre": "Drama",
+    "year": 2023,
+    "rating": 8.6,
+    "poster": "ptpr0kGAckfQkJeJIt8st5dglvd.jpg"
+  },
+  {
+    "slug": "interstellar",
+    "title": "INTERSTELLAR",
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "rating": 8.7,
+    "poster": "gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    "slug": "the_batman",
+    "title": "THE BATMAN",
+    "genre": "Thriller",
+    "year": 2022,
+    "rating": 8.3,
+    "poster": "74xTEgt7R36Fpooo50r9T25onhq.jpg"
+  },
+  {
+    "slug": "inside_out_2",
+    "title": "INSIDE OUT 2",
+    "genre": "Animasi",
+    "year": 2024,
+    "rating": 7.6,
+    "poster": "vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+  },
+  {
+    "slug": "kung_fu_panda_4",
+    "title": "KUNG FU PANDA 4",
+    "genre": "Animasi",
+    "year": 2024,
+    "rating": 7.1,
+    "poster": "kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg"
+  },
+  {
+    "slug": "everything_everywhere",
+    "title": "EVERYTHING EVERYWHERE ALL AT ONCE",
+    "genre": "Sci-Fi",
+    "year": 2022,
+    "rating": 7.9,
+    "poster": "w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
+  },
+  {
+    "slug": "fight_club",
+    "title": "FIGHT CLUB",
+    "genre": "Thriller",
+    "year": 1999,
+    "rating": 8.6,
+    "poster": "jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+  },
+  {
+    "slug": "rush",
+    "title": "RUSH",
+    "genre": "Drama",
+    "year": 2013,
+    "rating": 8.1,
+    "poster": "5hpcfL3WH5ArSPUlfD4E1TtaOd0.jpg"
+  },
+  {
+    "slug": "twenty_eight_days",
+    "title": "28 DAYS LATER",
+    "genre": "Thriller",
+    "year": 2002,
+    "rating": 7.2,
+    "poster": "sQckQRt17VaWbo39GIu0TMOiszq.jpg"
+  },
+  {
+    "slug": "novocaine",
+    "title": "NOVOCAINE",
+    "genre": "Aksi",
+    "year": 2025,
+    "rating": 6.8,
+    "poster": "xmMHGz9dVRaMY6rRAlEX4W0Wdhm.jpg"
+  }
+]
